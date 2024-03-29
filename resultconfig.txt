@@ -10,9 +10,9 @@
 ;增强国外GFW：支持
 
 ;设置规则标志位
-ruleset=self-proxy,https://admin.yegetables.com:27065/api/v1/files/download?path=%2Fhome%2Fajian%2Fclash-config%2Fproxy.list
+ruleset=self-proxy,https://raw.githubusercontent.com/DefiedParty/clashrules/main/proxy.list
 
-ruleset=self-direct,https://admin.yegetables.com:27065/api/v1/files/download?path=%2Fhome%2Fajian%2Fclash-config%2Fdirect.list
+ruleset=self-direct,https://raw.githubusercontent.com/DefiedParty/clashrules/main/direct.list
 
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/LocalAreaNetwork.list
 ruleset=🎯 全球直连,https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/UnBan.list
