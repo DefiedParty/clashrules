@@ -1,0 +1,14 @@
+DOMAIN-SUFFIX,microsoft.com
+DOMAIN-SUFFIX,s-microsoft.com
+DOMAIN-SUFFIX,officecdn-microsoft-com.akamaized.net
+
+DOMAIN-SUFFIX,openai.com
+DOMAIN-SUFFIX,auth0.com
+DOMAIN-SUFFIX,bing.com
+DOMAIN-SUFFIX,live.com
+
+DOMAIN-SUFFIX,kessel-api.parsec.app
+DOMAIN-SUFFIX,kessel-ws.parsec.app
+
+
+PROCESS-NAME,r2modman.exe

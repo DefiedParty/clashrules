@@ -1,0 +1,15 @@
+DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,common-v2.maj-soul.com
+DOMAIN-SUFFIX,tanhe.xin
+
+
+DOMAIN-SUFFIX,pve.openwrt
+DOMAIN-SUFFIX,pve.msi
+DOMAIN-SUFFIX,pve.win11
+
+DOMAIN-SUFFIX,stun.parsec.app
+
+PROCESS-NAME,simple_live_app.exe
+PROCESS-NAME,RustDesk.exe
+PROCESS-NAME,WeChat.exe
+PROCESS-NAME,Jantama_MahjongSoul.exe
