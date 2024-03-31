@@ -10,5 +10,6 @@ DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,kessel-api.parsec.app
 DOMAIN-SUFFIX,kessel-ws.parsec.app
 
+DOMAIN-SUFFIX,obsproject.com
 
 PROCESS-NAME,r2modman.exe
