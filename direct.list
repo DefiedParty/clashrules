@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,pve.msi
 DOMAIN-SUFFIX,pve.win11
 
 DOMAIN-SUFFIX,stun.parsec.app
+DOMAIN-SUFFIX,gcdn.thunderstore.io
 
 PROCESS-NAME,simple_live_app.exe
 PROCESS-NAME,RustDesk.exe
