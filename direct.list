@@ -13,4 +13,4 @@ DOMAIN-SUFFIX,gcdn.thunderstore.io
 PROCESS-NAME,simple_live_app.exe
 PROCESS-NAME,RustDesk.exe
 PROCESS-NAME,WeChat.exe
-PROCESS-NAME,Jantama_MahjongSoul.exe
+#PROCESS-NAME,Jantama_MahjongSoul.exe
