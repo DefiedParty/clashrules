@@ -1,9 +1,11 @@
 DOMAIN-SUFFIX,jetbrains.com
-DOMAIN-SUFFIX,common-v2.maj-soul.com
 DOMAIN-SUFFIX,tanhe.xin
-
+DOMAIN-SUFFIX,maj-soul.com
 
 DOMAIN-SUFFIX,pve.openwrt
+DOMAIN-SUFFIX,pve.op
+DOMAIN-SUFFIX,pve.nas
+DOMAIN-SUFFIX,pve.arch
 DOMAIN-SUFFIX,pve.msi
 DOMAIN-SUFFIX,pve.win11
 
