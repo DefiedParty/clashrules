@@ -1,7 +1,7 @@
 DOMAIN-SUFFIX,officecdn-microsoft-com.akamaized.net
 
-DOMAIN-SUFFIX,kessel-api.parsec.app
-DOMAIN-SUFFIX,kessel-ws.parsec.app
+#DOMAIN-SUFFIX,kessel-api.parsec.app
+#DOMAIN-SUFFIX,kessel-ws.parsec.app
 
 DOMAIN-SUFFIX,obsproject.com
 
