@@ -2,10 +2,10 @@ DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,tanhe.xin
 DOMAIN-SUFFIX,maj-soul.com
 
-DOMAIN-SUFFIX,public.parsec.app
-DOMAIN-SUFFIX,kessel-api.parsec.app
-DOMAIN-SUFFIX,kessel-ws.parsec.app
-DOMAIN-SUFFIX,stun.parsec.app
+#DOMAIN-SUFFIX,public.parsec.app
+#DOMAIN-SUFFIX,kessel-api.parsec.app
+#DOMAIN-SUFFIX,kessel-ws.parsec.app
+#DOMAIN-SUFFIX,stun.parsec.app
 
 
 DOMAIN-SUFFIX,gcdn.thunderstore.io
