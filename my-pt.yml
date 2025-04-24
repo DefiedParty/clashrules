@@ -1,0 +1,51 @@
+payload:
+# - DOMAIN-SUFFIX,byr.pt,cloudflare  # web
+# - DOMAIN-SUFFIX,fsm.name,自选加速 # web
+
+# www.icc2022.com # http 521 待观察
+
+- DOMAIN,ehtracker.org ## E-Hentai  tracker
+- DOMAIN,btn-prod.ghostchu-services.top ## E-Hentai  tracker
+
+- DOMAIN,tracker.byr.pt # tracker
+
+- DOMAIN,nextpt.net # tracker
+- DOMAIN,connects.icu # tracker
+
+# - DOMAIN,rousi.zip,自选加速 # web # ***tracker***  不需要加速
+- DOMAIN,rousi.zip # tracker # web
+- DOMAIN,tracker.rousipt.com # tracker
+
+- DOMAIN,1ptba.com    # tracker # web
+
+- DOMAIN,cyanbug.net # 大青虫 web 
+- DOMAIN,tracker.cyanbug.net # tracker
+
+- DOMAIN,www.haidan.video # web
+- DOMAIN,announce.haidan.video # tracker
+
+- DOMAIN-SUFFIX,hdfans.org # tracker # web
+
+- DOMAIN-SUFFIX,hdkylin.com # web
+- DOMAIN,tracker.hdkyl.in # tracker
+- DOMAIN,www.hdkylin.top # tracker
+
+- DOMAIN,www.icc2022.com # web
+- DOMAIN,tracker1.icc2022.de # tracker
+
+- DOAMIN,tra1.m-team.io # tracker
+- DOAMIN,tra1.m-team.cc # tracker
+- DOAMIN,tracker.m-team.cc # tracker
+- DOAMIN,tracker.m-team.io # tracker
+- DOAMIN,cx2.manfuz.co # web torrent download
+- DOAMIN,az2.makeoxc.co # web torrent download
+- DOMAIN-SUFFIX,m-team.io # web
+- DOMAIN-SUFFIX,m-team.cc # web
+
+- DOMAIN,www.pttime.org # tracker # web
+
+- DOMAIN-SUFFIX,ptzone.xyz # tracker # web
+
+- DOMAIN,raingfh.top # tracker # web
+
+- DOMAIN,kufei.org # tracker # web
