@@ -1,5 +1,5 @@
 payload:
-# - DOMAIN-SUFFIX,byr.pt,cloudflare  # web
+# - DOMAIN-SUFFIX,byr.pt,cloudflare CF # web
 # - DOMAIN-SUFFIX,fsm.name,自选加速 # web
 
 # www.icc2022.com # http 521 待观察
@@ -33,12 +33,12 @@ payload:
 - DOMAIN,www.icc2022.com # web
 - DOMAIN,tracker1.icc2022.de # tracker
 
-- DOAMIN,tra1.m-team.io # tracker
-- DOAMIN,tra1.m-team.cc # tracker
-- DOAMIN,tracker.m-team.cc # tracker
-- DOAMIN,tracker.m-team.io # tracker
-- DOAMIN,cx2.manfuz.co # web torrent download
-- DOAMIN,az2.makeoxc.co # web torrent download
+- DOMAIN,tra1.m-team.io # tracker
+- DOMAIN,tra1.m-team.cc # tracker
+- DOMAIN,tracker.m-team.cc # tracker
+- DOMAIN,tracker.m-team.io # tracker
+- DOMAIN,cx2.manfuz.co # web torrent download
+- DOMAIN,az2.makeoxc.co # web torrent download
 - DOMAIN-SUFFIX,m-team.io # web
 - DOMAIN-SUFFIX,m-team.cc # web
 
@@ -49,3 +49,6 @@ payload:
 - DOMAIN,raingfh.top # tracker # web
 
 - DOMAIN,kufei.org # tracker # web
+
+
+
